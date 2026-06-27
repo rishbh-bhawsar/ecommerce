@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "qwerty",
+    "database": "ecommerce_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "qwerty",
+    "database": "ecommerce_db",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
